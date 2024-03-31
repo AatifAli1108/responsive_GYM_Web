@@ -66,7 +66,7 @@ html {
 /* workout section */
 .workout-container{
     width: 100%;
-    background-image: url('/resources/bg2.avif');
+    background-image: url('../resources/bg2.avif');
 }
 .workout-container::before {
     content: "";
